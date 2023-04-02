@@ -1,7 +1,7 @@
 # Hotel Booking Data Analysis
 
 ### Intro
-The dataset used can be found in this github repository and is originally retrieved from [here](https://www.sciencedirect.com/science/article/pii/S2352340918315191){:target="_blank"}. It contains booking information for city hotels and resort hotels, and includes information such as when the booking was made, length of stay, the number of adults, children, and the number of available parking spaces, and more. All personally identifying information has been removed from the data and replaced with fictitious data. To analyze this dataset, we'll be using MySQL to write the queries. 
+The dataset used can be found in this github repository and is originally retrieved from [here](https://www.sciencedirect.com/science/article/pii/S2352340918315191). It contains booking information for city hotels and resort hotels, and includes information such as when the booking was made, length of stay, the number of adults, children, and the number of available parking spaces, and more. All personally identifying information has been removed from the data and replaced with fictitious data. To analyze this dataset, we'll be using MySQL to write the queries. 
 
 ## Schema 
 
