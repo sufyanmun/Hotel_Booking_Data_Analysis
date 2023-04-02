@@ -1,7 +1,7 @@
 # Hotel Booking Data Analysis
 
 ### Intro
-The dataset used can be found in this github repository and is originally retrieved from [here](https://www.sciencedirect.com/science/article/pii/S2352340918315191). It contains booking information for city hotels and resort hotels, and includes information such as when the booking was made, length of stay, the number of adults, children, and the number of available parking spaces, and more. All personally identifying information has been removed from the data and replaced with fictitious data. To analyze this dataset, we'll be using MySQL to write the queries. 
+The dataset used can be found in this github repository and is originally retrieved from [here](https://www.sciencedirect.com/science/article/pii/S2352340918315191){:target="_blank"}. It contains booking information for city hotels and resort hotels, and includes information such as when the booking was made, length of stay, the number of adults, children, and the number of available parking spaces, and more. All personally identifying information has been removed from the data and replaced with fictitious data. To analyze this dataset, we'll be using MySQL to write the queries. 
 
 ## Schema 
 
@@ -33,3 +33,12 @@ Total staying days in hotels:
 <img width="1421" alt="Screen Shot 2023-04-02 at 1 58 49 PM" src="https://user-images.githubusercontent.com/60675257/229370427-2febdb6a-181a-4230-8382-98568ad39d43.png">
 
  <img width="1238" alt="Screen Shot 2023-04-02 at 1 56 41 PM" src="https://user-images.githubusercontent.com/60675257/229370337-b37ac51a-839c-4e0a-ad23-a202dda3201d.png">
+ 
+ ### 4) Retrieving insights from data
+ 
+ Q1) Which agent makes the most bookings?
+ 
+ <img width="1216" alt="Screen Shot 2023-04-02 at 2 39 22 PM" src="https://user-images.githubusercontent.com/60675257/229372276-559e223f-92af-48f2-9e8a-cb9147bbf9a2.png">
+ 
+ Q2) What is the most popular month for bookings?
+<img width="1217" alt="Screen Shot 2023-04-02 at 2 47 33 PM" src="https://user-images.githubusercontent.com/60675257/229372656-6a12fa98-6dbd-4aa4-9e67-550c8fce682e.png">
