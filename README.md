@@ -42,3 +42,15 @@ Total staying days in hotels:
  
  Q2) What is the most popular month for bookings?
 <img width="1217" alt="Screen Shot 2023-04-02 at 2 47 33 PM" src="https://user-images.githubusercontent.com/60675257/229372656-6a12fa98-6dbd-4aa4-9e67-550c8fce682e.png">
+
+Q3) What is the average length of stay for guests? 
+<img width="1217" alt="Screen Shot 2023-04-03 at 6 44 08 PM" src="https://user-images.githubusercontent.com/60675257/229642753-7ee920b1-0bcb-4cc9-9b73-b1e9b798091c.png">
+
+ ### 5) Creating Relevant KPIs 
+ 
+ Q1) What is the lifetime value of a customer? & Which customer has the highest Customer Lifetime Value (CTV)?
+ 
+ Since this dataset didn't have any unique identifier for each customer I had to get creative and use the customer's phone number. Assuming that the phone number is uniquely associated with each customer.
+ 
+ <img width="1217" alt="Screen Shot 2023-04-03 at 7 04 37 PM" src="https://user-images.githubusercontent.com/60675257/229645285-24025a6a-b8e2-4cc2-bddc-b637ed678950.png">
+
