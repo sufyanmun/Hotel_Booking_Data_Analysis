@@ -4,8 +4,8 @@
 The dataset used can be found in this github repository and is originally retrieved from [here](https://www.sciencedirect.com/science/article/pii/S2352340918315191). It contains booking information for city hotels and resort hotels, and includes information such as when the booking was made, length of stay, the number of adults, children, and the number of available parking spaces, and more. All personally identifying information has been removed from the data and replaced with fictitious data. To analyze this dataset, we'll be using MySQL to write the queries. 
 
 ## Schema 
+<img width="152" alt="Screen Shot 2023-04-03 at 7 09 58 PM" src="https://user-images.githubusercontent.com/60675257/229645950-f05486a3-e7e7-410e-9342-67dd1196a732.png">
 
-<img width="195" alt="Schema" src="https://user-images.githubusercontent.com/60675257/229370755-0d44dcf5-9a8b-4932-bc32-fe2a05d45db2.png">
 
 ### 1) Exploratory Analysis
  
