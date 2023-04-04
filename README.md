@@ -57,3 +57,7 @@ Q3) What is the average length of stay for guests?
 Q2) What is the cancellation rate? 
 
 <img width="1216" alt="Screen Shot 2023-04-03 at 10 25 10 PM" src="https://user-images.githubusercontent.com/60675257/229670730-fa55b0a5-3438-4897-b1b2-4fab581e7e4e.png">
+
+Q2) What is the Revenue per available room (RevPAR)? 
+
+<img width="1216" alt="Screen Shot 2023-04-04 at 11 45 05 AM" src="https://user-images.githubusercontent.com/60675257/229846304-91c043e2-9e2f-495a-a2e0-272f1d2860fc.png">
