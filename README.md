@@ -61,3 +61,9 @@ Q2) What is the cancellation rate?
 Q2) What is the Revenue per available room (RevPAR)? 
 
 <img width="1216" alt="Screen Shot 2023-04-04 at 11 45 05 AM" src="https://user-images.githubusercontent.com/60675257/229846304-91c043e2-9e2f-495a-a2e0-272f1d2860fc.png">
+
+ ### 6) Using KPIs & Data to Create Visualizations
+<a href="https://public.tableau.com/app/profile/sufyan.mun/viz/Hotel_Dashboard_16806200097910/HotelBookingDashboard" rel="some text">![Hotel Booking Dashboard](https://user-images.githubusercontent.com/60675257/229879293-4bda2080-f815-4a9e-ae70-3184b59803be.png)
+</a>
+
+
