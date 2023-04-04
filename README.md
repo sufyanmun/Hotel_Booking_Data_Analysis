@@ -54,3 +54,6 @@ Q3) What is the average length of stay for guests?
  
  <img width="1217" alt="Screen Shot 2023-04-03 at 7 04 37 PM" src="https://user-images.githubusercontent.com/60675257/229645285-24025a6a-b8e2-4cc2-bddc-b637ed678950.png">
 
+Q2) What is the cancellation rate? 
+
+<img width="1216" alt="Screen Shot 2023-04-03 at 10 25 10 PM" src="https://user-images.githubusercontent.com/60675257/229670730-fa55b0a5-3438-4897-b1b2-4fab581e7e4e.png">
